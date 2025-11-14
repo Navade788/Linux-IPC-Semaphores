@@ -114,11 +114,11 @@ if(NUM_LOOPS>=10)    {
 ## OUTPUT
 $ ./sem.o 
 
-![image](https://github.com/user-attachments/assets/7b39e1cb-15ca-4e6a-af23-7aae33dcb28e)
+<img width="528" height="541" alt="image" src="https://github.com/user-attachments/assets/df48f6c9-fe2d-4510-93eb-5a9014c15514" />
 
 $ ipcs
 
-![image](https://github.com/user-attachments/assets/cacbf5f7-1a19-4b29-be29-b9481aedcfb5)
+<img width="556" height="139" alt="image" src="https://github.com/user-attachments/assets/a26c07f4-6bc1-4e7b-9d36-195e9f88dff3" />
 
 # RESULT:
 The program is executed successfully.
